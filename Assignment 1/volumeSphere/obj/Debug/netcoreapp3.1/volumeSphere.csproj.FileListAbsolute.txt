@@ -1,0 +1,13 @@
+F:\netcentric\volumeSphere\bin\Debug\netcoreapp3.1\volumeSphere.exe
+F:\netcentric\volumeSphere\bin\Debug\netcoreapp3.1\volumeSphere.deps.json
+F:\netcentric\volumeSphere\bin\Debug\netcoreapp3.1\volumeSphere.runtimeconfig.json
+F:\netcentric\volumeSphere\bin\Debug\netcoreapp3.1\volumeSphere.runtimeconfig.dev.json
+F:\netcentric\volumeSphere\bin\Debug\netcoreapp3.1\volumeSphere.dll
+F:\netcentric\volumeSphere\bin\Debug\netcoreapp3.1\volumeSphere.pdb
+F:\netcentric\volumeSphere\obj\Debug\netcoreapp3.1\volumeSphere.csprojAssemblyReference.cache
+F:\netcentric\volumeSphere\obj\Debug\netcoreapp3.1\volumeSphere.AssemblyInfoInputs.cache
+F:\netcentric\volumeSphere\obj\Debug\netcoreapp3.1\volumeSphere.AssemblyInfo.cs
+F:\netcentric\volumeSphere\obj\Debug\netcoreapp3.1\volumeSphere.csproj.CoreCompileInputs.cache
+F:\netcentric\volumeSphere\obj\Debug\netcoreapp3.1\volumeSphere.dll
+F:\netcentric\volumeSphere\obj\Debug\netcoreapp3.1\volumeSphere.pdb
+F:\netcentric\volumeSphere\obj\Debug\netcoreapp3.1\volumeSphere.genruntimeconfig.cache

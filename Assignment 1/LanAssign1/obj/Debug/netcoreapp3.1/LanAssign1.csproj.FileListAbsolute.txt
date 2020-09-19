@@ -1,0 +1,13 @@
+F:\netcentric\LanAssign1\bin\Debug\netcoreapp3.1\LanAssign1.exe
+F:\netcentric\LanAssign1\bin\Debug\netcoreapp3.1\LanAssign1.deps.json
+F:\netcentric\LanAssign1\bin\Debug\netcoreapp3.1\LanAssign1.runtimeconfig.json
+F:\netcentric\LanAssign1\bin\Debug\netcoreapp3.1\LanAssign1.runtimeconfig.dev.json
+F:\netcentric\LanAssign1\bin\Debug\netcoreapp3.1\LanAssign1.dll
+F:\netcentric\LanAssign1\bin\Debug\netcoreapp3.1\LanAssign1.pdb
+F:\netcentric\LanAssign1\obj\Debug\netcoreapp3.1\LanAssign1.csprojAssemblyReference.cache
+F:\netcentric\LanAssign1\obj\Debug\netcoreapp3.1\LanAssign1.AssemblyInfoInputs.cache
+F:\netcentric\LanAssign1\obj\Debug\netcoreapp3.1\LanAssign1.AssemblyInfo.cs
+F:\netcentric\LanAssign1\obj\Debug\netcoreapp3.1\LanAssign1.csproj.CoreCompileInputs.cache
+F:\netcentric\LanAssign1\obj\Debug\netcoreapp3.1\LanAssign1.dll
+F:\netcentric\LanAssign1\obj\Debug\netcoreapp3.1\LanAssign1.pdb
+F:\netcentric\LanAssign1\obj\Debug\netcoreapp3.1\LanAssign1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\netcentric\Lab2\Matrices\obj\Debug\netcoreapp3.1\Matrices.csprojAssemblyReference.cache
+F:\netcentric\Lab2\Matrices\obj\Debug\netcoreapp3.1\Matrices.AssemblyInfoInputs.cache
+F:\netcentric\Lab2\Matrices\obj\Debug\netcoreapp3.1\Matrices.AssemblyInfo.cs
+F:\netcentric\Lab2\Matrices\obj\Debug\netcoreapp3.1\Matrices.csproj.CoreCompileInputs.cache
+F:\netcentric\Lab2\Matrices\bin\Debug\netcoreapp3.1\Matrices.exe
+F:\netcentric\Lab2\Matrices\bin\Debug\netcoreapp3.1\Matrices.deps.json
+F:\netcentric\Lab2\Matrices\bin\Debug\netcoreapp3.1\Matrices.runtimeconfig.json
+F:\netcentric\Lab2\Matrices\bin\Debug\netcoreapp3.1\Matrices.runtimeconfig.dev.json
+F:\netcentric\Lab2\Matrices\bin\Debug\netcoreapp3.1\Matrices.dll
+F:\netcentric\Lab2\Matrices\bin\Debug\netcoreapp3.1\Matrices.pdb
+F:\netcentric\Lab2\Matrices\obj\Debug\netcoreapp3.1\Matrices.dll
+F:\netcentric\Lab2\Matrices\obj\Debug\netcoreapp3.1\Matrices.pdb
+F:\netcentric\Lab2\Matrices\obj\Debug\netcoreapp3.1\Matrices.genruntimeconfig.cache

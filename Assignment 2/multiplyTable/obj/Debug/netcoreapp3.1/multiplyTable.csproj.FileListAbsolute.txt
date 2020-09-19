@@ -1,0 +1,13 @@
+F:\netcentric\Lab2\multiplyTable\bin\Debug\netcoreapp3.1\multiplyTable.exe
+F:\netcentric\Lab2\multiplyTable\bin\Debug\netcoreapp3.1\multiplyTable.deps.json
+F:\netcentric\Lab2\multiplyTable\bin\Debug\netcoreapp3.1\multiplyTable.runtimeconfig.json
+F:\netcentric\Lab2\multiplyTable\bin\Debug\netcoreapp3.1\multiplyTable.runtimeconfig.dev.json
+F:\netcentric\Lab2\multiplyTable\bin\Debug\netcoreapp3.1\multiplyTable.dll
+F:\netcentric\Lab2\multiplyTable\bin\Debug\netcoreapp3.1\multiplyTable.pdb
+F:\netcentric\Lab2\multiplyTable\obj\Debug\netcoreapp3.1\multiplyTable.csprojAssemblyReference.cache
+F:\netcentric\Lab2\multiplyTable\obj\Debug\netcoreapp3.1\multiplyTable.AssemblyInfoInputs.cache
+F:\netcentric\Lab2\multiplyTable\obj\Debug\netcoreapp3.1\multiplyTable.AssemblyInfo.cs
+F:\netcentric\Lab2\multiplyTable\obj\Debug\netcoreapp3.1\multiplyTable.csproj.CoreCompileInputs.cache
+F:\netcentric\Lab2\multiplyTable\obj\Debug\netcoreapp3.1\multiplyTable.dll
+F:\netcentric\Lab2\multiplyTable\obj\Debug\netcoreapp3.1\multiplyTable.pdb
+F:\netcentric\Lab2\multiplyTable\obj\Debug\netcoreapp3.1\multiplyTable.genruntimeconfig.cache

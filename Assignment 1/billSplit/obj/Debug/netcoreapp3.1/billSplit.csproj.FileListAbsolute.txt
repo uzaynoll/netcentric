@@ -1,0 +1,13 @@
+F:\netcentric\billSplit\bin\Debug\netcoreapp3.1\billSplit.exe
+F:\netcentric\billSplit\bin\Debug\netcoreapp3.1\billSplit.deps.json
+F:\netcentric\billSplit\bin\Debug\netcoreapp3.1\billSplit.runtimeconfig.json
+F:\netcentric\billSplit\bin\Debug\netcoreapp3.1\billSplit.runtimeconfig.dev.json
+F:\netcentric\billSplit\bin\Debug\netcoreapp3.1\billSplit.dll
+F:\netcentric\billSplit\bin\Debug\netcoreapp3.1\billSplit.pdb
+F:\netcentric\billSplit\obj\Debug\netcoreapp3.1\billSplit.csprojAssemblyReference.cache
+F:\netcentric\billSplit\obj\Debug\netcoreapp3.1\billSplit.AssemblyInfoInputs.cache
+F:\netcentric\billSplit\obj\Debug\netcoreapp3.1\billSplit.AssemblyInfo.cs
+F:\netcentric\billSplit\obj\Debug\netcoreapp3.1\billSplit.csproj.CoreCompileInputs.cache
+F:\netcentric\billSplit\obj\Debug\netcoreapp3.1\billSplit.dll
+F:\netcentric\billSplit\obj\Debug\netcoreapp3.1\billSplit.pdb
+F:\netcentric\billSplit\obj\Debug\netcoreapp3.1\billSplit.genruntimeconfig.cache

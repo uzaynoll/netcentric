@@ -1,0 +1,13 @@
+F:\netcentric\Lab2\geometricAverage\bin\Debug\netcoreapp3.1\geometricAverage.exe
+F:\netcentric\Lab2\geometricAverage\bin\Debug\netcoreapp3.1\geometricAverage.deps.json
+F:\netcentric\Lab2\geometricAverage\bin\Debug\netcoreapp3.1\geometricAverage.runtimeconfig.json
+F:\netcentric\Lab2\geometricAverage\bin\Debug\netcoreapp3.1\geometricAverage.runtimeconfig.dev.json
+F:\netcentric\Lab2\geometricAverage\bin\Debug\netcoreapp3.1\geometricAverage.dll
+F:\netcentric\Lab2\geometricAverage\bin\Debug\netcoreapp3.1\geometricAverage.pdb
+F:\netcentric\Lab2\geometricAverage\obj\Debug\netcoreapp3.1\geometricAverage.csprojAssemblyReference.cache
+F:\netcentric\Lab2\geometricAverage\obj\Debug\netcoreapp3.1\geometricAverage.AssemblyInfoInputs.cache
+F:\netcentric\Lab2\geometricAverage\obj\Debug\netcoreapp3.1\geometricAverage.AssemblyInfo.cs
+F:\netcentric\Lab2\geometricAverage\obj\Debug\netcoreapp3.1\geometricAverage.csproj.CoreCompileInputs.cache
+F:\netcentric\Lab2\geometricAverage\obj\Debug\netcoreapp3.1\geometricAverage.dll
+F:\netcentric\Lab2\geometricAverage\obj\Debug\netcoreapp3.1\geometricAverage.pdb
+F:\netcentric\Lab2\geometricAverage\obj\Debug\netcoreapp3.1\geometricAverage.genruntimeconfig.cache

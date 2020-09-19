@@ -1,0 +1,13 @@
+F:\netcentric\Lab3\sinx\bin\Debug\netcoreapp3.1\sinx.exe
+F:\netcentric\Lab3\sinx\bin\Debug\netcoreapp3.1\sinx.deps.json
+F:\netcentric\Lab3\sinx\bin\Debug\netcoreapp3.1\sinx.runtimeconfig.json
+F:\netcentric\Lab3\sinx\bin\Debug\netcoreapp3.1\sinx.runtimeconfig.dev.json
+F:\netcentric\Lab3\sinx\bin\Debug\netcoreapp3.1\sinx.dll
+F:\netcentric\Lab3\sinx\bin\Debug\netcoreapp3.1\sinx.pdb
+F:\netcentric\Lab3\sinx\obj\Debug\netcoreapp3.1\sinx.csprojAssemblyReference.cache
+F:\netcentric\Lab3\sinx\obj\Debug\netcoreapp3.1\sinx.AssemblyInfoInputs.cache
+F:\netcentric\Lab3\sinx\obj\Debug\netcoreapp3.1\sinx.AssemblyInfo.cs
+F:\netcentric\Lab3\sinx\obj\Debug\netcoreapp3.1\sinx.csproj.CoreCompileInputs.cache
+F:\netcentric\Lab3\sinx\obj\Debug\netcoreapp3.1\sinx.dll
+F:\netcentric\Lab3\sinx\obj\Debug\netcoreapp3.1\sinx.pdb
+F:\netcentric\Lab3\sinx\obj\Debug\netcoreapp3.1\sinx.genruntimeconfig.cache

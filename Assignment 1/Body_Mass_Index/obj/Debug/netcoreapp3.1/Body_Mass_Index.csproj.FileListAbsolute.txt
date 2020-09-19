@@ -1,0 +1,13 @@
+F:\netcentric\Body_Mass_Index\bin\Debug\netcoreapp3.1\Body_Mass_Index.exe
+F:\netcentric\Body_Mass_Index\bin\Debug\netcoreapp3.1\Body_Mass_Index.deps.json
+F:\netcentric\Body_Mass_Index\bin\Debug\netcoreapp3.1\Body_Mass_Index.runtimeconfig.json
+F:\netcentric\Body_Mass_Index\bin\Debug\netcoreapp3.1\Body_Mass_Index.runtimeconfig.dev.json
+F:\netcentric\Body_Mass_Index\bin\Debug\netcoreapp3.1\Body_Mass_Index.dll
+F:\netcentric\Body_Mass_Index\bin\Debug\netcoreapp3.1\Body_Mass_Index.pdb
+F:\netcentric\Body_Mass_Index\obj\Debug\netcoreapp3.1\Body_Mass_Index.csprojAssemblyReference.cache
+F:\netcentric\Body_Mass_Index\obj\Debug\netcoreapp3.1\Body_Mass_Index.AssemblyInfoInputs.cache
+F:\netcentric\Body_Mass_Index\obj\Debug\netcoreapp3.1\Body_Mass_Index.AssemblyInfo.cs
+F:\netcentric\Body_Mass_Index\obj\Debug\netcoreapp3.1\Body_Mass_Index.csproj.CoreCompileInputs.cache
+F:\netcentric\Body_Mass_Index\obj\Debug\netcoreapp3.1\Body_Mass_Index.dll
+F:\netcentric\Body_Mass_Index\obj\Debug\netcoreapp3.1\Body_Mass_Index.pdb
+F:\netcentric\Body_Mass_Index\obj\Debug\netcoreapp3.1\Body_Mass_Index.genruntimeconfig.cache

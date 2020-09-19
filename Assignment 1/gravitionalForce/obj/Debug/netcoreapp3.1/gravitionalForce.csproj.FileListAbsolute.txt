@@ -1,0 +1,13 @@
+F:\netcentric\gravitionalForce\bin\Debug\netcoreapp3.1\gravitionalForce.exe
+F:\netcentric\gravitionalForce\bin\Debug\netcoreapp3.1\gravitionalForce.deps.json
+F:\netcentric\gravitionalForce\bin\Debug\netcoreapp3.1\gravitionalForce.runtimeconfig.json
+F:\netcentric\gravitionalForce\bin\Debug\netcoreapp3.1\gravitionalForce.runtimeconfig.dev.json
+F:\netcentric\gravitionalForce\bin\Debug\netcoreapp3.1\gravitionalForce.dll
+F:\netcentric\gravitionalForce\bin\Debug\netcoreapp3.1\gravitionalForce.pdb
+F:\netcentric\gravitionalForce\obj\Debug\netcoreapp3.1\gravitionalForce.csprojAssemblyReference.cache
+F:\netcentric\gravitionalForce\obj\Debug\netcoreapp3.1\gravitionalForce.AssemblyInfoInputs.cache
+F:\netcentric\gravitionalForce\obj\Debug\netcoreapp3.1\gravitionalForce.AssemblyInfo.cs
+F:\netcentric\gravitionalForce\obj\Debug\netcoreapp3.1\gravitionalForce.csproj.CoreCompileInputs.cache
+F:\netcentric\gravitionalForce\obj\Debug\netcoreapp3.1\gravitionalForce.dll
+F:\netcentric\gravitionalForce\obj\Debug\netcoreapp3.1\gravitionalForce.pdb
+F:\netcentric\gravitionalForce\obj\Debug\netcoreapp3.1\gravitionalForce.genruntimeconfig.cache

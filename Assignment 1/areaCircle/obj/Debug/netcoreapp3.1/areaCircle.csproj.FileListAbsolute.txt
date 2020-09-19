@@ -1,0 +1,13 @@
+F:\netcentric\areaCircle\bin\Debug\netcoreapp3.1\areaCircle.exe
+F:\netcentric\areaCircle\bin\Debug\netcoreapp3.1\areaCircle.deps.json
+F:\netcentric\areaCircle\bin\Debug\netcoreapp3.1\areaCircle.runtimeconfig.json
+F:\netcentric\areaCircle\bin\Debug\netcoreapp3.1\areaCircle.runtimeconfig.dev.json
+F:\netcentric\areaCircle\bin\Debug\netcoreapp3.1\areaCircle.dll
+F:\netcentric\areaCircle\bin\Debug\netcoreapp3.1\areaCircle.pdb
+F:\netcentric\areaCircle\obj\Debug\netcoreapp3.1\areaCircle.csprojAssemblyReference.cache
+F:\netcentric\areaCircle\obj\Debug\netcoreapp3.1\areaCircle.AssemblyInfoInputs.cache
+F:\netcentric\areaCircle\obj\Debug\netcoreapp3.1\areaCircle.AssemblyInfo.cs
+F:\netcentric\areaCircle\obj\Debug\netcoreapp3.1\areaCircle.csproj.CoreCompileInputs.cache
+F:\netcentric\areaCircle\obj\Debug\netcoreapp3.1\areaCircle.dll
+F:\netcentric\areaCircle\obj\Debug\netcoreapp3.1\areaCircle.pdb
+F:\netcentric\areaCircle\obj\Debug\netcoreapp3.1\areaCircle.genruntimeconfig.cache

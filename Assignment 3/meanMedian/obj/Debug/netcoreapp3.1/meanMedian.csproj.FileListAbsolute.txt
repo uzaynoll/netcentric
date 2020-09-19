@@ -1,0 +1,13 @@
+F:\netcentric\Lab3\meanMedian\bin\Debug\netcoreapp3.1\meanMedian.exe
+F:\netcentric\Lab3\meanMedian\bin\Debug\netcoreapp3.1\meanMedian.deps.json
+F:\netcentric\Lab3\meanMedian\bin\Debug\netcoreapp3.1\meanMedian.runtimeconfig.json
+F:\netcentric\Lab3\meanMedian\bin\Debug\netcoreapp3.1\meanMedian.runtimeconfig.dev.json
+F:\netcentric\Lab3\meanMedian\bin\Debug\netcoreapp3.1\meanMedian.dll
+F:\netcentric\Lab3\meanMedian\bin\Debug\netcoreapp3.1\meanMedian.pdb
+F:\netcentric\Lab3\meanMedian\obj\Debug\netcoreapp3.1\meanMedian.csprojAssemblyReference.cache
+F:\netcentric\Lab3\meanMedian\obj\Debug\netcoreapp3.1\meanMedian.AssemblyInfoInputs.cache
+F:\netcentric\Lab3\meanMedian\obj\Debug\netcoreapp3.1\meanMedian.AssemblyInfo.cs
+F:\netcentric\Lab3\meanMedian\obj\Debug\netcoreapp3.1\meanMedian.csproj.CoreCompileInputs.cache
+F:\netcentric\Lab3\meanMedian\obj\Debug\netcoreapp3.1\meanMedian.dll
+F:\netcentric\Lab3\meanMedian\obj\Debug\netcoreapp3.1\meanMedian.pdb
+F:\netcentric\Lab3\meanMedian\obj\Debug\netcoreapp3.1\meanMedian.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\netcentric\massEnergy\bin\Debug\netcoreapp3.1\massEnergy.exe
+F:\netcentric\massEnergy\bin\Debug\netcoreapp3.1\massEnergy.deps.json
+F:\netcentric\massEnergy\bin\Debug\netcoreapp3.1\massEnergy.runtimeconfig.json
+F:\netcentric\massEnergy\bin\Debug\netcoreapp3.1\massEnergy.runtimeconfig.dev.json
+F:\netcentric\massEnergy\bin\Debug\netcoreapp3.1\massEnergy.dll
+F:\netcentric\massEnergy\bin\Debug\netcoreapp3.1\massEnergy.pdb
+F:\netcentric\massEnergy\obj\Debug\netcoreapp3.1\massEnergy.csprojAssemblyReference.cache
+F:\netcentric\massEnergy\obj\Debug\netcoreapp3.1\massEnergy.AssemblyInfoInputs.cache
+F:\netcentric\massEnergy\obj\Debug\netcoreapp3.1\massEnergy.AssemblyInfo.cs
+F:\netcentric\massEnergy\obj\Debug\netcoreapp3.1\massEnergy.csproj.CoreCompileInputs.cache
+F:\netcentric\massEnergy\obj\Debug\netcoreapp3.1\massEnergy.dll
+F:\netcentric\massEnergy\obj\Debug\netcoreapp3.1\massEnergy.pdb
+F:\netcentric\massEnergy\obj\Debug\netcoreapp3.1\massEnergy.genruntimeconfig.cache

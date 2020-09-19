@@ -1,0 +1,13 @@
+F:\netcentric\CompoundInteres\bin\Debug\netcoreapp3.1\CompoundInteres.exe
+F:\netcentric\CompoundInteres\bin\Debug\netcoreapp3.1\CompoundInteres.deps.json
+F:\netcentric\CompoundInteres\bin\Debug\netcoreapp3.1\CompoundInteres.runtimeconfig.json
+F:\netcentric\CompoundInteres\bin\Debug\netcoreapp3.1\CompoundInteres.runtimeconfig.dev.json
+F:\netcentric\CompoundInteres\bin\Debug\netcoreapp3.1\CompoundInteres.dll
+F:\netcentric\CompoundInteres\bin\Debug\netcoreapp3.1\CompoundInteres.pdb
+F:\netcentric\CompoundInteres\obj\Debug\netcoreapp3.1\CompoundInteres.csprojAssemblyReference.cache
+F:\netcentric\CompoundInteres\obj\Debug\netcoreapp3.1\CompoundInteres.AssemblyInfoInputs.cache
+F:\netcentric\CompoundInteres\obj\Debug\netcoreapp3.1\CompoundInteres.AssemblyInfo.cs
+F:\netcentric\CompoundInteres\obj\Debug\netcoreapp3.1\CompoundInteres.csproj.CoreCompileInputs.cache
+F:\netcentric\CompoundInteres\obj\Debug\netcoreapp3.1\CompoundInteres.dll
+F:\netcentric\CompoundInteres\obj\Debug\netcoreapp3.1\CompoundInteres.pdb
+F:\netcentric\CompoundInteres\obj\Debug\netcoreapp3.1\CompoundInteres.genruntimeconfig.cache
